@@ -28,3 +28,8 @@ table, li, div, a{
 td, th{
 	font-size: 20px;
 }
+
+@media only screen and (min-width: 768px)
+{
+img {max-width:100%;height:auto;>}
+}
